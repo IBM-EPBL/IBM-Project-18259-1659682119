@@ -1,0 +1,7 @@
+# IBM-Project-18259-1659682119
+Car Resale value Prediction
+TEAM MEMBERS:
+V.SURESH(team leader)
+S.SYED UMAR
+S.TAQEE ULLAH
+SHYAM PRASAD.N.P
